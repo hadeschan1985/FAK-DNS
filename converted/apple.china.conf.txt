@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]119.29.29.29
 [/itunes.apple.com/]119.29.29.29
 [/itunesconnect.apple.com/]119.29.29.29
+[/mensura.cdn-apple.com/]119.29.29.29
 [/mesu-cdn.apple.com.akadns.net/]119.29.29.29
 [/mesu-china.apple.com.akadns.net/]119.29.29.29
 [/mesu.apple.com/]119.29.29.29

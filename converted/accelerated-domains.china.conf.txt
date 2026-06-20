@@ -13890,6 +13890,7 @@
 [/azuiblc.com/]119.29.29.29
 [/azure-wave.com/]119.29.29.29
 [/azure.cc/]119.29.29.29
+[/azureflame.cloud/]119.29.29.29
 [/azureflying.com/]119.29.29.29
 [/azuremigrate.download.prss.microsoft.com/]119.29.29.29
 [/azuremigratetest.download.prss.microsoft.com/]119.29.29.29
@@ -16478,6 +16479,7 @@
 [/bjartmuseum.com/]119.29.29.29
 [/bjatv.com/]119.29.29.29
 [/bjbaidianfeng.com/]119.29.29.29
+[/bjbaifan.com/]119.29.29.29
 [/bjbalb.com/]119.29.29.29
 [/bjbaodao.net/]119.29.29.29
 [/bjbb.com/]119.29.29.29
@@ -18915,6 +18917,7 @@
 [/cangfengzhe.com/]119.29.29.29
 [/canghaiip.com/]119.29.29.29
 [/canghaimachine.com/]119.29.29.29
+[/cangjggame.com/]119.29.29.29
 [/canglanghospital.com/]119.29.29.29
 [/cangmang.xyz/]119.29.29.29
 [/cangoonline.com/]119.29.29.29
@@ -20535,6 +20538,7 @@
 [/chachengji.com/]119.29.29.29
 [/chacihai.com/]119.29.29.29
 [/chacuo.net/]119.29.29.29
+[/chadaodao.com/]119.29.29.29
 [/chadianhua.net/]119.29.29.29
 [/chadoc.com/]119.29.29.29
 [/chaej.com/]119.29.29.29
@@ -34447,6 +34451,7 @@
 [/feiersmart.com/]119.29.29.29
 [/feifandesign.com/]119.29.29.29
 [/feifanindustry.com/]119.29.29.29
+[/feifanmi.com/]119.29.29.29
 [/feifantxt.com/]119.29.29.29
 [/feifantxt.net/]119.29.29.29
 [/feifdx.com/]119.29.29.29
@@ -75115,6 +75120,7 @@
 [/qingnianlvxing.com/]119.29.29.29
 [/qingniantuzhai.com/]119.29.29.29
 [/qingnianwang.com/]119.29.29.29
+[/qingning88.com/]119.29.29.29
 [/qingpanduola.com/]119.29.29.29
 [/qingpin.vip/]119.29.29.29
 [/qingping.co/]119.29.29.29
@@ -92117,6 +92123,7 @@
 [/uniow.com/]119.29.29.29
 [/unipack-tech.com/]119.29.29.29
 [/uniproud.com/]119.29.29.29
+[/unisapps.com/]119.29.29.29
 [/uniscope.com/]119.29.29.29
 [/unisdigital.com/]119.29.29.29
 [/unisedu.com/]119.29.29.29
