@@ -14177,6 +14177,7 @@
 [/b-k-automation.com/]119.29.29.29
 [/b-raymedia.com/]119.29.29.29
 [/b.biz/]119.29.29.29
+[/b.c2r.ts.cdn.office.net/]119.29.29.29
 [/b01.net/]119.29.29.29
 [/b02f0d7f3745ba7c.com/]119.29.29.29
 [/b041e427810281.beer/]119.29.29.29
@@ -33934,6 +33935,7 @@
 [/f-insight.com/]119.29.29.29
 [/f-stack.org/]119.29.29.29
 [/f.biz/]119.29.29.29
+[/f.c2r.ts.cdn.office.net/]119.29.29.29
 [/f.cx/]119.29.29.29
 [/f008.com/]119.29.29.29
 [/f015dfc4510292.beer/]119.29.29.29
@@ -81375,6 +81377,7 @@
 [/sheketiandi.com/]119.29.29.29
 [/shekou.com/]119.29.29.29
 [/shelive.net/]119.29.29.29
+[/shell.cdn.office.net/]119.29.29.29
 [/shellpub.com/]119.29.29.29
 [/shellsec.com/]119.29.29.29
 [/shelter-china.com/]119.29.29.29
@@ -85195,6 +85198,7 @@
 [/staticfile.org/]119.29.29.29
 [/statickksmg.com/]119.29.29.29
 [/statics.cc/]119.29.29.29
+[/statics.teams.cdn.office.net/]119.29.29.29
 [/staticsdd.com/]119.29.29.29
 [/staticsoe.com/]119.29.29.29
 [/staticsoem.com/]119.29.29.29
@@ -85908,6 +85912,7 @@
 [/surely.cool/]119.29.29.29
 [/surerp.com/]119.29.29.29
 [/surface.download.prss.microsoft.com/]119.29.29.29
+[/surface.downloads.prss.microsoft.com/]119.29.29.29
 [/surfacetreatmentgroup.com/]119.29.29.29
 [/surfacetreatmenttechnology.com/]119.29.29.29
 [/surfcg.com/]119.29.29.29
