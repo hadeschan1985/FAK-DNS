@@ -2245,6 +2245,7 @@
 [/168267xz.com/]119.29.29.29
 [/168338.com/]119.29.29.29
 [/16838.com/]119.29.29.29
+[/1685188.com/]119.29.29.29
 [/1686888.com/]119.29.29.29
 [/1688.com/]119.29.29.29
 [/1688.xn--unup4y/]119.29.29.29
@@ -3053,6 +3054,7 @@
 [/202271.xyz/]119.29.29.29
 [/2023.com/]119.29.29.29
 [/2023game.com/]119.29.29.29
+[/20240828.xyz/]119.29.29.29
 [/2024qq.com/]119.29.29.29
 [/2025.net/]119.29.29.29
 [/2026cname.com/]119.29.29.29
@@ -3634,6 +3636,7 @@
 [/2emai.com/]119.29.29.29
 [/2f.com/]119.29.29.29
 [/2f24ad2dc10261.beer/]119.29.29.29
+[/2fa.vip/]119.29.29.29
 [/2facb31bb10272.beer/]119.29.29.29
 [/2fda37d4c10292.beer/]119.29.29.29
 [/2gdt.com/]119.29.29.29
@@ -16027,6 +16030,7 @@
 [/bigbrx.com/]119.29.29.29
 [/bigcakegame.com/]119.29.29.29
 [/bigcat.com/]119.29.29.29
+[/bigcoder.xyz/]119.29.29.29
 [/bigda.com/]119.29.29.29
 [/bigdata-expo.org/]119.29.29.29
 [/bigdata.ren/]119.29.29.29
@@ -17436,6 +17440,7 @@
 [/bohe.com/]119.29.29.29
 [/bohejiasuqi.com/]119.29.29.29
 [/bohewangluo.com/]119.29.29.29
+[/bohrium.com/]119.29.29.29
 [/bohu.co/]119.29.29.29
 [/bohua.com/]119.29.29.29
 [/bohuanchina.com/]119.29.29.29
@@ -18756,6 +18761,7 @@
 [/cagetest.com/]119.29.29.29
 [/cageystone.com/]119.29.29.29
 [/cagoe.com/]119.29.29.29
+[/cahwfeh.com/]119.29.29.29
 [/cai-ba.com/]119.29.29.29
 [/cai110.com/]119.29.29.29
 [/cai58t.com/]119.29.29.29
@@ -31823,6 +31829,7 @@
 [/ebsfw.com/]119.29.29.29
 [/ebt.group/]119.29.29.29
 [/ebtang.com/]119.29.29.29
+[/ebtool.com/]119.29.29.29
 [/ebtrust.com/]119.29.29.29
 [/ebuckler.com/]119.29.29.29
 [/ebumbrella.com/]119.29.29.29
@@ -33977,6 +33984,7 @@
 [/fankhome.com/]119.29.29.29
 [/fankuweb.com/]119.29.29.29
 [/fanli.com/]119.29.29.29
+[/fanliang.cc/]119.29.29.29
 [/fanlibei.com/]119.29.29.29
 [/fanlihe.com/]119.29.29.29
 [/fanlihi.com/]119.29.29.29
@@ -34299,6 +34307,7 @@
 [/fdcyun.com/]119.29.29.29
 [/fdczbstatic.com/]119.29.29.29
 [/fdd0cd79c10281.beer/]119.29.29.29
+[/fddhlaw.com/]119.29.29.29
 [/fdeent.org/]119.29.29.29
 [/fdeer.com/]119.29.29.29
 [/fdevops.com/]119.29.29.29
@@ -35121,6 +35130,7 @@
 [/fjmotor.net/]119.29.29.29
 [/fjmstc.com/]119.29.29.29
 [/fjmzw.com/]119.29.29.29
+[/fjmzx.com/]119.29.29.29
 [/fjndwb.com/]119.29.29.29
 [/fjnet.com/]119.29.29.29
 [/fjnhjt.com/]119.29.29.29
@@ -35881,6 +35891,7 @@
 [/fsjsdtc.com/]119.29.29.29
 [/fsjx.org/]119.29.29.29
 [/fsjy.net/]119.29.29.29
+[/fsk-download.com/]119.29.29.29
 [/fsky.pro/]119.29.29.29
 [/fskzpw.com/]119.29.29.29
 [/fslgz.com/]119.29.29.29
@@ -36153,6 +36164,7 @@
 [/fupin832.com/]119.29.29.29
 [/furagon.com/]119.29.29.29
 [/furama-beihai.com/]119.29.29.29
+[/furapi.com/]119.29.29.29
 [/furderdriving.com/]119.29.29.29
 [/furenchina.com/]119.29.29.29
 [/furenkeji.com/]119.29.29.29
@@ -37660,6 +37672,7 @@
 [/geekerconsulting.com/]119.29.29.29
 [/geekerhua.com/]119.29.29.29
 [/geekfans.com/]119.29.29.29
+[/geekhour.net/]119.29.29.29
 [/geeklei.com/]119.29.29.29
 [/geekluo.com/]119.29.29.29
 [/geekmaker.com/]119.29.29.29
@@ -45423,6 +45436,7 @@
 [/hicheng.net/]119.29.29.29
 [/hichina.com/]119.29.29.29
 [/hichina.net/]119.29.29.29
+[/hichip.net/]119.29.29.29
 [/hichipharm.com/]119.29.29.29
 [/hichips.com/]119.29.29.29
 [/hicitech.com/]119.29.29.29
@@ -48757,6 +48771,7 @@
 [/hxdpay.com/]119.29.29.29
 [/hxdrisk.com/]119.29.29.29
 [/hxdsbgg.com/]119.29.29.29
+[/hxdsmy.com/]119.29.29.29
 [/hxdspa.com/]119.29.29.29
 [/hxdtekf.com/]119.29.29.29
 [/hxen.com/]119.29.29.29
@@ -49533,6 +49548,7 @@
 [/hzzrmc.com/]119.29.29.29
 [/hzzsfs.com/]119.29.29.29
 [/hzzsxh.com/]119.29.29.29
+[/hzzszf.com/]119.29.29.29
 [/hzztkj.com/]119.29.29.29
 [/hzzuyin.com/]119.29.29.29
 [/hzzx365.com/]119.29.29.29
@@ -50250,6 +50266,7 @@
 [/iduodou.com/]119.29.29.29
 [/iduokan.net/]119.29.29.29
 [/idux-vw.com/]119.29.29.29
+[/idwuhan.com/]119.29.29.29
 [/idwzx.com/]119.29.29.29
 [/idx365.com/]119.29.29.29
 [/ie13.com/]119.29.29.29
@@ -61725,6 +61742,7 @@
 [/liwai.com/]119.29.29.29
 [/liwanggui.com/]119.29.29.29
 [/liwanght.com/]119.29.29.29
+[/liwei.biz/]119.29.29.29
 [/liweiauto.com/]119.29.29.29
 [/liweijituan.com/]119.29.29.29
 [/liweiliang.com/]119.29.29.29
@@ -62041,6 +62059,7 @@
 [/lnsslhyxh.com/]119.29.29.29
 [/lnsyzx.com/]119.29.29.29
 [/lnszyjt.com/]119.29.29.29
+[/lntongyu.com/]119.29.29.29
 [/lntvu.com/]119.29.29.29
 [/lntycp.com/]119.29.29.29
 [/lnvipsoft.com/]119.29.29.29
@@ -65975,6 +65994,7 @@
 [/miyapay.com/]119.29.29.29
 [/miyateam.com/]119.29.29.29
 [/miyatech.com/]119.29.29.29
+[/miyavip.vip/]119.29.29.29
 [/miyilink.com/]119.29.29.29
 [/miyoushe.com/]119.29.29.29
 [/miyouu.com/]119.29.29.29
@@ -72734,6 +72754,7 @@
 [/pkfish.com/]119.29.29.29
 [/pkfj.xyz/]119.29.29.29
 [/pkfun.com/]119.29.29.29
+[/pkfwealth.com/]119.29.29.29
 [/pkgame.com/]119.29.29.29
 [/pkghund.com/]119.29.29.29
 [/pkgklk.com/]119.29.29.29
@@ -73630,6 +73651,7 @@
 [/puxiang.com/]119.29.29.29
 [/puxindesign.com/]119.29.29.29
 [/puxun.co/]119.29.29.29
+[/puyasemi.com/]119.29.29.29
 [/puyideshiye.com/]119.29.29.29
 [/puyimed.com/]119.29.29.29
 [/puyuan-electric.com/]119.29.29.29
@@ -84468,6 +84490,7 @@
 [/stanlyview.com/]119.29.29.29
 [/staofchina.com/]119.29.29.29
 [/stapharma.com/]119.29.29.29
+[/staplescn.com/]119.29.29.29
 [/star-charge.com/]119.29.29.29
 [/star-elink.com/]119.29.29.29
 [/star-engine.com/]119.29.29.29
@@ -84698,6 +84721,7 @@
 [/streamax.com/]119.29.29.29
 [/streamaxtech.com/]119.29.29.29
 [/streamcomputing.com/]119.29.29.29
+[/streamlake.com/]119.29.29.29
 [/streamlakeapi.com/]119.29.29.29
 [/streffy.com/]119.29.29.29
 [/strinova.com/]119.29.29.29
@@ -85262,6 +85286,7 @@
 [/suqishi.com/]119.29.29.29
 [/suqnn.com/]119.29.29.29
 [/suqun-group.com/]119.29.29.29
+[/suredeliverses.com/]119.29.29.29
 [/surely.cool/]119.29.29.29
 [/surerp.com/]119.29.29.29
 [/surface.download.prss.microsoft.com/]119.29.29.29
@@ -86044,6 +86069,7 @@
 [/szautism.com/]119.29.29.29
 [/szbaba.com/]119.29.29.29
 [/szbaike.com/]119.29.29.29
+[/szbaisc.com/]119.29.29.29
 [/szbaleng.com/]119.29.29.29
 [/szbaoly.com/]119.29.29.29
 [/szbaoming.com/]119.29.29.29
@@ -97846,6 +97872,7 @@
 [/xcoder.in/]119.29.29.29
 [/xcommon.com/]119.29.29.29
 [/xcoodir.com/]119.29.29.29
+[/xcoresigma.com/]119.29.29.29
 [/xcot.com/]119.29.29.29
 [/xcpapa.site/]119.29.29.29
 [/xcpapa.xyz/]119.29.29.29
@@ -99651,6 +99678,7 @@
 [/xinyoudui.com/]119.29.29.29
 [/xinyour.com/]119.29.29.29
 [/xinyu-tam.com/]119.29.29.29
+[/xinyu1234.xyz/]119.29.29.29
 [/xinyu19.com/]119.29.29.29
 [/xinyuanclub.com/]119.29.29.29
 [/xinyuanf.com/]119.29.29.29
@@ -100406,6 +100434,7 @@
 [/xn--fiqx7ci2whnj.com/]119.29.29.29
 [/xn--fjq5py34j65v.com/]119.29.29.29
 [/xn--glr604k.com/]119.29.29.29
+[/xn--gmq22ktps713c.cc/]119.29.29.29
 [/xn--gmq238c5fy.com/]119.29.29.29
 [/xn--gmq64zxnt8llcrb.xn--6qq986b3xl/]119.29.29.29
 [/xn--gmq65d2wksq4b0bt.xn--czr694b/]119.29.29.29
@@ -103796,6 +103825,7 @@
 [/yizeseafood.com/]119.29.29.29
 [/yizhanapp.com/]119.29.29.29
 [/yizhang8.com/]119.29.29.29
+[/yizhangtu.com/]119.29.29.29
 [/yizhanhulian.com/]119.29.29.29
 [/yizhanzx.com/]119.29.29.29
 [/yizhaopin.com/]119.29.29.29
@@ -104465,6 +104495,7 @@
 [/yoseleather.com/]119.29.29.29
 [/yostar.net/]119.29.29.29
 [/yostatic.com/]119.29.29.29
+[/yosulife.com/]119.29.29.29
 [/yotopic.com/]119.29.29.29
 [/you-mi.net/]119.29.29.29
 [/you03.com/]119.29.29.29
@@ -106019,6 +106050,7 @@
 [/yunzz.net/]119.29.29.29
 [/yuoucn.com/]119.29.29.29
 [/yupao.com/]119.29.29.29
+[/yupaoad.com/]119.29.29.29
 [/yupaowang.com/]119.29.29.29
 [/yupeiholdings.com/]119.29.29.29
 [/yupinny.com/]119.29.29.29
@@ -106397,6 +106429,7 @@
 [/yyh78.com/]119.29.29.29
 [/yyha168.com/]119.29.29.29
 [/yyhao.com/]119.29.29.29
+[/yyhdadx.com/]119.29.29.29
 [/yyhh.com/]119.29.29.29
 [/yyhn365.com/]119.29.29.29
 [/yyhybz.com/]119.29.29.29
@@ -106616,6 +106649,7 @@
 [/yzs.io/]119.29.29.29
 [/yzsbh.com/]119.29.29.29
 [/yzsfuer.com/]119.29.29.29
+[/yzsgo.com/]119.29.29.29
 [/yzshkjxx.com/]119.29.29.29
 [/yzshyzz.com/]119.29.29.29
 [/yzsljz.com/]119.29.29.29
@@ -108792,6 +108826,7 @@
 [/zhuanghebm.com/]119.29.29.29
 [/zhuangji.net/]119.29.29.29
 [/zhuangjiba.com/]119.29.29.29
+[/zhuangjidiy.com/]119.29.29.29
 [/zhuangjinshanhe.com/]119.29.29.29
 [/zhuangjizhuli.net/]119.29.29.29
 [/zhuangkou.com/]119.29.29.29
