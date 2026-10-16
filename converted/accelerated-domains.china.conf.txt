@@ -207,7 +207,6 @@
 [/01yun.com/]119.29.29.29
 [/01zenith.net/]119.29.29.29
 [/01zhuanche.com/]119.29.29.29
-[/01zk.com/]119.29.29.29
 [/020.com/]119.29.29.29
 [/020.net/]119.29.29.29
 [/020.xn--5tzm5g/]119.29.29.29
@@ -4675,7 +4674,6 @@
 [/46d7940171014.beer/]119.29.29.29
 [/46eadc71881fb97a.com/]119.29.29.29
 [/46mlsv.com/]119.29.29.29
-[/46ps.com/]119.29.29.29
 [/46xs.com/]119.29.29.29
 [/4714da8871019.beer/]119.29.29.29
 [/471f94eab9784273.com/]119.29.29.29
@@ -6654,7 +6652,6 @@
 [/6188cnc.com/]119.29.29.29
 [/618bg.com/]119.29.29.29
 [/618cj.com/]119.29.29.29
-[/618day.com/]119.29.29.29
 [/618ky.com/]119.29.29.29
 [/618tech.com/]119.29.29.29
 [/618waihui.com/]119.29.29.29
@@ -6976,7 +6973,6 @@
 [/688dns.com/]119.29.29.29
 [/688wz.net/]119.29.29.29
 [/68955.com/]119.29.29.29
-[/68978.net/]119.29.29.29
 [/68apk.com/]119.29.29.29
 [/68bbq.com/]119.29.29.29
 [/68china.net/]119.29.29.29
@@ -7172,7 +7168,6 @@
 [/701.com/]119.29.29.29
 [/703804.com/]119.29.29.29
 [/70524.com/]119.29.29.29
-[/706net.com/]119.29.29.29
 [/707.com/]119.29.29.29
 [/707598.xyz/]119.29.29.29
 [/707e518c610291.beer/]119.29.29.29
@@ -7911,7 +7906,6 @@
 [/83666.com/]119.29.29.29
 [/83692.com/]119.29.29.29
 [/83753751.com/]119.29.29.29
-[/8379888.com/]119.29.29.29
 [/8383.vip/]119.29.29.29
 [/838413.com/]119.29.29.29
 [/838dz.com/]119.29.29.29
@@ -9674,7 +9668,6 @@
 [/acingame.com/]119.29.29.29
 [/acirclea.com/]119.29.29.29
 [/acirno.com/]119.29.29.29
-[/acjw.net/]119.29.29.29
 [/acloud.com/]119.29.29.29
 [/acloudbaas.com/]119.29.29.29
 [/acloudrender.com/]119.29.29.29
@@ -13176,7 +13169,6 @@
 [/awx1.com/]119.29.29.29
 [/awyerwu.com/]119.29.29.29
 [/awyx.xyz/]119.29.29.29
-[/ax196.com/]119.29.29.29
 [/ax1x.com/]119.29.29.29
 [/ax2nc4.ren/]119.29.29.29
 [/axatp.com/]119.29.29.29
@@ -14315,7 +14307,6 @@
 [/bbfstore.com/]119.29.29.29
 [/bbfytsn.com/]119.29.29.29
 [/bbgdex.com/]119.29.29.29
-[/bbgsite.com/]119.29.29.29
 [/bbgstatic.com/]119.29.29.29
 [/bbguangcai.com/]119.29.29.29
 [/bbhou.com/]119.29.29.29
@@ -17167,7 +17158,6 @@
 [/bsccdn.com/]119.29.29.29
 [/bsccdn.net/]119.29.29.29
 [/bscdns.com/]119.29.29.29
-[/bscdnweb.com/]119.29.29.29
 [/bscea.org/]119.29.29.29
 [/bscedge.com/]119.29.29.29
 [/bscgslb.com/]119.29.29.29
@@ -19163,7 +19153,6 @@
 [/cdn-v.com/]119.29.29.29
 [/cdn.fun/]119.29.29.29
 [/cdn.me/]119.29.29.29
-[/cdn.samsung.com/]119.29.29.29
 [/cdn.shanghai.nyu.edu/]119.29.29.29
 [/cdn.show/]119.29.29.29
 [/cdn.vin/]119.29.29.29
@@ -19777,7 +19766,6 @@
 [/cghhospital.org/]119.29.29.29
 [/cghospital.com/]119.29.29.29
 [/cgicop.com/]119.29.29.29
-[/cgiumuo.xyz/]119.29.29.29
 [/cgivz.com/]119.29.29.29
 [/cgjoy.com/]119.29.29.29
 [/cgjoy.net/]119.29.29.29
@@ -23361,7 +23349,6 @@
 [/cnfeol.net/]119.29.29.29
 [/cnfg.cc/]119.29.29.29
 [/cnfia.com/]119.29.29.29
-[/cnfiberhome.com/]119.29.29.29
 [/cnfin.com/]119.29.29.29
 [/cnfina.com/]119.29.29.29
 [/cnfirst.net/]119.29.29.29
@@ -24412,6 +24399,7 @@
 [/coremakingsolutions.com/]119.29.29.29
 [/corerain.com/]119.29.29.29
 [/corex-design.com/]119.29.29.29
+[/corexpertdata.com/]119.29.29.29
 [/coreyun.net/]119.29.29.29
 [/corgichina.com/]119.29.29.29
 [/corlercar888.com/]119.29.29.29
@@ -26673,7 +26661,6 @@
 [/dahetest.com/]119.29.29.29
 [/dahhxxttxs.com/]119.29.29.29
 [/dahongba.net/]119.29.29.29
-[/dahongtec.com/]119.29.29.29
 [/dahongtool.com/]119.29.29.29
 [/dahouduan.com/]119.29.29.29
 [/dahua-cpa.com/]119.29.29.29
@@ -29600,7 +29587,6 @@
 [/downke.com/]119.29.29.29
 [/downkr.com/]119.29.29.29
 [/downkuai.com/]119.29.29.29
-[/download.microsoft.com/]119.29.29.29
 [/download.visualstudio.microsoft.com/]119.29.29.29
 [/download.windowsupdate.com/]119.29.29.29
 [/downloads.ltd/]119.29.29.29
@@ -32941,7 +32927,6 @@
 [/faminuo.com/]119.29.29.29
 [/famobiotech.com/]119.29.29.29
 [/famousoffice.com/]119.29.29.29
-[/famoustone.com/]119.29.29.29
 [/famulei.com/]119.29.29.29
 [/fan-lun.com/]119.29.29.29
 [/fan-md.com/]119.29.29.29
@@ -33375,7 +33360,6 @@
 [/fcnes.com/]119.29.29.29
 [/fcnode.net/]119.29.29.29
 [/fcpawn.com/]119.29.29.29
-[/fcpiao.com/]119.29.29.29
 [/fcpowerup.com/]119.29.29.29
 [/fcqjc.com/]119.29.29.29
 [/fcrc114.com/]119.29.29.29
@@ -34372,7 +34356,6 @@
 [/flmgr.net/]119.29.29.29
 [/floatcamellia.com/]119.29.29.29
 [/floatingislandapps.com/]119.29.29.29
-[/floatmaze.com/]119.29.29.29
 [/flockypet.com/]119.29.29.29
 [/flomoapp.com/]119.29.29.29
 [/floorb2b.com/]119.29.29.29
@@ -36967,7 +36950,6 @@
 [/gewu.vc/]119.29.29.29
 [/gewuer.com/]119.29.29.29
 [/gewuzhixiang.com/]119.29.29.29
-[/gexiao.me/]119.29.29.29
 [/gexiaocloud.com/]119.29.29.29
 [/gexinda.com/]119.29.29.29
 [/gexing.com/]119.29.29.29
@@ -40937,7 +40919,6 @@
 [/gxzcpsw.com/]119.29.29.29
 [/gxzcs.com/]119.29.29.29
 [/gxzdsj.com/]119.29.29.29
-[/gxzdyg.com/]119.29.29.29
 [/gxzecai.com/]119.29.29.29
 [/gxzepu.com/]119.29.29.29
 [/gxzero.com/]119.29.29.29
@@ -43661,7 +43642,6 @@
 [/heihei.com/]119.29.29.29
 [/heiheiyuyin.com/]119.29.29.29
 [/heihekeji.com/]119.29.29.29
-[/heijiao.net/]119.29.29.29
 [/heijiaovip.com/]119.29.29.29
 [/heilanhome.com/]119.29.29.29
 [/heilifun.com/]119.29.29.29
@@ -44746,7 +44726,6 @@
 [/hk-vstart.com/]119.29.29.29
 [/hk-xin.com/]119.29.29.29
 [/hk.uy/]119.29.29.29
-[/hk0523.com/]119.29.29.29
 [/hk603.hk/]119.29.29.29
 [/hk8668.com/]119.29.29.29
 [/hk9.com/]119.29.29.29
@@ -47057,7 +47036,6 @@
 [/huichongduo.com/]119.29.29.29
 [/huichuangjialife.com/]119.29.29.29
 [/huichuangzhanlan.com/]119.29.29.29
-[/huicx7.com/]119.29.29.29
 [/huida18.com/]119.29.29.29
 [/huidabbs.com/]119.29.29.29
 [/huidafrp.com/]119.29.29.29
@@ -49021,7 +48999,6 @@
 [/ict88.com/]119.29.29.29
 [/ictbda.com/]119.29.29.29
 [/ictcsr.org/]119.29.29.29
-[/ictdns.icu/]119.29.29.29
 [/ictdns.store/]119.29.29.29
 [/ictdns.tech/]119.29.29.29
 [/ictehi.com/]119.29.29.29
@@ -49663,7 +49640,6 @@
 [/ikjtao.com/]119.29.29.29
 [/ikjxc.com/]119.29.29.29
 [/ikmoo.com/]119.29.29.29
-[/ikncn.com/]119.29.29.29
 [/ikonfx.com/]119.29.29.29
 [/ikongjian.com/]119.29.29.29
 [/ikongjun.com/]119.29.29.29
@@ -49976,7 +49952,6 @@
 [/imsyy.com/]119.29.29.29
 [/imtaweb.net/]119.29.29.29
 [/imtedge.com/]119.29.29.29
-[/imtics.com/]119.29.29.29
 [/imtmp.net/]119.29.29.29
 [/imtrwqjier3.com/]119.29.29.29
 [/imtuan.com/]119.29.29.29
@@ -52991,7 +52966,6 @@
 [/jingsh.com/]119.29.29.29
 [/jingshibang.com/]119.29.29.29
 [/jingshibianhuren.com/]119.29.29.29
-[/jingshistudy.com/]119.29.29.29
 [/jingshizyy.com/]119.29.29.29
 [/jingshun-wl.com/]119.29.29.29
 [/jingshzh.com/]119.29.29.29
@@ -55122,7 +55096,6 @@
 [/jufengcap.com/]119.29.29.29
 [/jufengcompany.com/]119.29.29.29
 [/jufenginfo.com/]119.29.29.29
-[/jufengwuxi.com/]119.29.29.29
 [/jufu.vip/]119.29.29.29
 [/jugao.com/]119.29.29.29
 [/jugezi.com/]119.29.29.29
@@ -55317,7 +55290,6 @@
 [/junziboxue.com/]119.29.29.29
 [/junzimen.com/]119.29.29.29
 [/junziqian.com/]119.29.29.29
-[/junziyize.com/]119.29.29.29
 [/juooo.com/]119.29.29.29
 [/jupiterlauncher.com/]119.29.29.29
 [/jupup.com/]119.29.29.29
@@ -58372,7 +58344,6 @@
 [/lamoton.com/]119.29.29.29
 [/lampbi.com/]119.29.29.29
 [/lampouomo.com/]119.29.29.29
-[/lamwatch.com/]119.29.29.29
 [/lamyu.com/]119.29.29.29
 [/lan-bridge.com/]119.29.29.29
 [/lan-lin.com/]119.29.29.29
@@ -58389,7 +58360,6 @@
 [/lanchuanhuanbao.com/]119.29.29.29
 [/lancn.net/]119.29.29.29
 [/lancong.net/]119.29.29.29
-[/lanconvey.com/]119.29.29.29
 [/lancunwater.com/]119.29.29.29
 [/lancygroup.com/]119.29.29.29
 [/land136.com/]119.29.29.29
@@ -66397,7 +66367,6 @@
 [/n802.com/]119.29.29.29
 [/n8soft.com/]119.29.29.29
 [/n9z.net/]119.29.29.29
-[/na.ci/]119.29.29.29
 [/naaln.com/]119.29.29.29
 [/nabel.cc/]119.29.29.29
 [/nabluemedia.com/]119.29.29.29
@@ -66852,7 +66821,6 @@
 [/ncmtkj.com/]119.29.29.29
 [/ncmtr.com/]119.29.29.29
 [/ncnynl.com/]119.29.29.29
-[/ncogvki.xyz/]119.29.29.29
 [/ncpa-classic.com/]119.29.29.29
 [/ncpc.biz/]119.29.29.29
 [/ncpqh.com/]119.29.29.29
@@ -70486,7 +70454,6 @@
 [/panso.pro/]119.29.29.29
 [/pansoso.com/]119.29.29.29
 [/pansou.com/]119.29.29.29
-[/pansousuo.com/]119.29.29.29
 [/pantherhealthcare.com/]119.29.29.29
 [/pantonechina.com/]119.29.29.29
 [/pantonecn.com/]119.29.29.29
@@ -70893,7 +70860,6 @@
 [/penging.com/]119.29.29.29
 [/pengke.com/]119.29.29.29
 [/penglei.name/]119.29.29.29
-[/pengliao.com/]119.29.29.29
 [/pengpailaw.com/]119.29.29.29
 [/pengrl.com/]119.29.29.29
 [/pengrui-ssj.com/]119.29.29.29
@@ -71077,7 +71043,6 @@
 [/phonecoolgame.com/]119.29.29.29
 [/phonegap.me/]119.29.29.29
 [/phonegap100.com/]119.29.29.29
-[/phonelinksoft.com/]119.29.29.29
 [/phonertech.com/]119.29.29.29
 [/phopic.com/]119.29.29.29
 [/phosun.com/]119.29.29.29
@@ -71704,7 +71669,6 @@
 [/pomeloyun.com/]119.29.29.29
 [/pomoho.com/]119.29.29.29
 [/pondernext.com/]119.29.29.29
-[/ponging.store/]119.29.29.29
 [/ponkong.com/]119.29.29.29
 [/ponley.com/]119.29.29.29
 [/pontite.com/]119.29.29.29
@@ -74941,7 +74905,6 @@
 [/qygbet381.vip/]119.29.29.29
 [/qygbet427.vip/]119.29.29.29
 [/qygjyey.com/]119.29.29.29
-[/qyhgsb.com/]119.29.29.29
 [/qyhl.vip/]119.29.29.29
 [/qyhr.org/]119.29.29.29
 [/qyhxy365.com/]119.29.29.29
@@ -76150,7 +76113,6 @@
 [/rongba.com/]119.29.29.29
 [/rongbiz.com/]119.29.29.29
 [/rongbiz.net/]119.29.29.29
-[/rongbst.com/]119.29.29.29
 [/rongcfg.com/]119.29.29.29
 [/rongchain.com/]119.29.29.29
 [/rongchaodichan.com/]119.29.29.29
@@ -78908,7 +78870,6 @@
 [/shanbotv.com/]119.29.29.29
 [/shancemall.com/]119.29.29.29
 [/shanchuangjiaoyu.com/]119.29.29.29
-[/shancui1688.com/]119.29.29.29
 [/shanda960.com/]119.29.29.29
 [/shandacasual.net/]119.29.29.29
 [/shandagames.com/]119.29.29.29
@@ -81407,6 +81368,7 @@
 [/sireda.com/]119.29.29.29
 [/sirenyouxiang.com/]119.29.29.29
 [/sirfang.com/]119.29.29.29
+[/siriser.com/]119.29.29.29
 [/sirweara.com/]119.29.29.29
 [/siryin.com/]119.29.29.29
 [/siscantech.com/]119.29.29.29
@@ -81640,7 +81602,6 @@
 [/sk2w.net/]119.29.29.29
 [/skatehere.com/]119.29.29.29
 [/skcto.com/]119.29.29.29
-[/skd6.com/]119.29.29.29
 [/skd62.com/]119.29.29.29
 [/skdlabs.com/]119.29.29.29
 [/skeo.net/]119.29.29.29
@@ -81758,7 +81719,6 @@
 [/skyworthnj.com/]119.29.29.29
 [/skyworthznxyj.com/]119.29.29.29
 [/skyxinli.com/]119.29.29.29
-[/skyxvpn.com/]119.29.29.29
 [/skyyin.org/]119.29.29.29
 [/skyzhan.com/]119.29.29.29
 [/skznsb.com/]119.29.29.29
@@ -81799,6 +81759,7 @@
 [/slk1.net/]119.29.29.29
 [/slkg1949.com/]119.29.29.29
 [/sllai.com/]119.29.29.29
+[/slldbs641.vip/]119.29.29.29
 [/sllngy.com/]119.29.29.29
 [/sllssrq.com/]119.29.29.29
 [/slodon.net/]119.29.29.29
@@ -81907,7 +81868,6 @@
 [/smartxiantao.com/]119.29.29.29
 [/smartyao.com/]119.29.29.29
 [/smartyoke.com/]119.29.29.29
-[/smartyun8.com/]119.29.29.29
 [/smartzzx.com/]119.29.29.29
 [/smarun.com/]119.29.29.29
 [/smaryun.com/]119.29.29.29
@@ -82638,7 +82598,6 @@
 [/soyo-dg.com/]119.29.29.29
 [/soyohui.com/]119.29.29.29
 [/soyoung.com/]119.29.29.29
-[/soyouso.com/]119.29.29.29
 [/soyunion.com/]119.29.29.29
 [/soyx123.com/]119.29.29.29
 [/sozdata.com/]119.29.29.29
@@ -84437,7 +84396,6 @@
 [/synykj.net/]119.29.29.29
 [/syobserve.com/]119.29.29.29
 [/syoits.com/]119.29.29.29
-[/syoker.com/]119.29.29.29
 [/syoseo.com/]119.29.29.29
 [/syounggroup.com/]119.29.29.29
 [/sypglass.com/]119.29.29.29
@@ -87207,7 +87165,6 @@
 [/tianmumusic.com/]119.29.29.29
 [/tianmunews.com/]119.29.29.29
 [/tianmupe.com/]119.29.29.29
-[/tiannbo.com/]119.29.29.29
 [/tiannilaw.com/]119.29.29.29
 [/tianning.xyz/]119.29.29.29
 [/tianninghr.com/]119.29.29.29
@@ -89169,13 +89126,11 @@
 [/tuipear.com/]119.29.29.29
 [/tuipinpai.com/]119.29.29.29
 [/tuiplay.com/]119.29.29.29
-[/tuirice.com/]119.29.29.29
 [/tuishao.net/]119.29.29.29
 [/tuishark.com/]119.29.29.29
 [/tuishubang.com/]119.29.29.29
 [/tuishujun.com/]119.29.29.29
 [/tuisnake.com/]119.29.29.29
-[/tuistone.com/]119.29.29.29
 [/tuitiger.com/]119.29.29.29
 [/tuitui.info/]119.29.29.29
 [/tuitui99.com/]119.29.29.29
@@ -89716,7 +89671,6 @@
 [/tzwdsoft.com/]119.29.29.29
 [/tzwpco.com/]119.29.29.29
 [/tzxingtang.com/]119.29.29.29
-[/tzxwzx.com/]119.29.29.29
 [/tzyiyuantuan.com/]119.29.29.29
 [/tzyongda.com/]119.29.29.29
 [/tzyun.com/]119.29.29.29
@@ -92705,7 +92659,6 @@
 [/weaoo.com/]119.29.29.29
 [/weapp.com/]119.29.29.29
 [/weapp.me/]119.29.29.29
-[/weareing.store/]119.29.29.29
 [/wearemanner.com/]119.29.29.29
 [/weareqy.com/]119.29.29.29
 [/wearesellers.com/]119.29.29.29
@@ -92858,7 +92811,6 @@
 [/wedev.cool/]119.29.29.29
 [/wedeveloper.com/]119.29.29.29
 [/wedfairy.com/]119.29.29.29
-[/wedn.net/]119.29.29.29
 [/wedoany.com/]119.29.29.29
 [/wedoctor.com/]119.29.29.29
 [/wedoexpress.com/]119.29.29.29
@@ -96502,7 +96454,6 @@
 [/xeeok.com/]119.29.29.29
 [/xefan.com/]119.29.29.29
 [/xege.org/]119.29.29.29
-[/xegymyb.xyz/]119.29.29.29
 [/xehedu.com/]119.29.29.29
 [/xeknow.com/]119.29.29.29
 [/xeltek-cn.com/]119.29.29.29
@@ -99362,7 +99313,6 @@
 [/xtw-system.com/]119.29.29.29
 [/xtwzyx.com/]119.29.29.29
 [/xtx6.com/]119.29.29.29
-[/xtxbemp.xyz/]119.29.29.29
 [/xtxcm.com/]119.29.29.29
 [/xtxh.net/]119.29.29.29
 [/xtxnxk.sbs/]119.29.29.29
@@ -99401,7 +99351,6 @@
 [/xuanruanjian.com/]119.29.29.29
 [/xuanshitou.com/]119.29.29.29
 [/xuanshu.com/]119.29.29.29
-[/xuanshu.org/]119.29.29.29
 [/xuansiwei.com/]119.29.29.29
 [/xuantaikeji.com/]119.29.29.29
 [/xuanteng.org/]119.29.29.29
@@ -105065,7 +105014,6 @@
 [/yzj.cc/]119.29.29.29
 [/yzja.com/]119.29.29.29
 [/yzjb.com/]119.29.29.29
-[/yzjdgs88.com/]119.29.29.29
 [/yzjj120.com/]119.29.29.29
 [/yzjjw.net/]119.29.29.29
 [/yzjob.net/]119.29.29.29
@@ -105895,7 +105843,6 @@
 [/zgjtb.com/]119.29.29.29
 [/zgjxcad.com/]119.29.29.29
 [/zgjxjjw.com/]119.29.29.29
-[/zgjymg.com/]119.29.29.29
 [/zgjzy.org/]119.29.29.29
 [/zgkao.com/]119.29.29.29
 [/zgkashi.com/]119.29.29.29
@@ -108708,7 +108655,6 @@
 [/znzyf.com/]119.29.29.29
 [/zo-station.com/]119.29.29.29
 [/zoassetmanagement.com/]119.29.29.29
-[/zobmxcfw.com/]119.29.29.29
 [/zocai.com/]119.29.29.29
 [/zocolor.com/]119.29.29.29
 [/zocoxx.com/]119.29.29.29
